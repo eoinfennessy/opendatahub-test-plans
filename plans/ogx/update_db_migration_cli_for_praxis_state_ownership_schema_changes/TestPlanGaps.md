@@ -31,7 +31,7 @@ last_updated: '2026-09-25'
 - Treatment of explicitly empty source values is not stated consistently for fallback selection.
 - The observable error contract is not defined.
 
-### Environment & Infrastructure
+### Unresolved Environment & Infrastructure
 
 - The linked ADR, including deployment decisions and architectural context, was not supplied.
 - Required OpenShift, RHOAI, OGX operator, and dependent-service versions, cluster topology,
