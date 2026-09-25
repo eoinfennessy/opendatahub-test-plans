@@ -12,6 +12,7 @@ version: 1.1.0
 reviewers: []
 ---
 # update_db_migration_cli_for_praxis_state_ownership_schema_changes Test Plan
+
 **OGX Core** – **E2E/System Testing**
 
 **Strategy**: [RHAIENG-7604](https://redhat.atlassian.net/browse/RHAIENG-7604)
